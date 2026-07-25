@@ -1,28 +1,28 @@
 # Hi 👋, I'm Abdul Azeez Shaik
 
-### QA Automation Engineer | Java | Selenium | Rest Assured | TestNG
+## QA Automation Engineer | Java | Selenium | API Testing
 
-I am a passionate QA Automation Engineer with experience in building scalable UI and API automation frameworks using Java. I enjoy solving real-world testing challenges, improving software quality, and continuously learning modern automation technologies.
+I am a QA Automation Engineer passionate about building reliable, scalable, and maintainable automation frameworks for Web and API testing. I enjoy solving real-world testing challenges, improving software quality, and continuously enhancing my automation skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building enterprise-level automation frameworks
-- 🌱 Learning Playwright, GitHub Actions, and AWS
-- 💬 Ask me about Java, Selenium, TestNG, Rest Assured, Maven, Jenkins, Docker, and Git
-- 🎯 Goal: Build reliable automation solutions that save testing time and improve software quality
-- ⚡ Fun Fact: I enjoy automating repetitive tasks and turning manual processes into efficient workflows.
+- 💼 QA Automation Engineer
+- 🔭 Building scalable Web & API automation frameworks
+- 🌱 Currently learning Playwright and advanced automation testing practices
+- 💬 Ask me about Java, Selenium, TestNG, Rest Assured, Maven, Jenkins, Git, SQL, Docker, and API Testing
+- 🎯 Interested in improving software quality through automation and best testing practices
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 - Java
 - SQL
 
-### Automation
+### Test Automation
 - Selenium WebDriver
 - TestNG
 - Cucumber
@@ -31,54 +31,68 @@ I am a passionate QA Automation Engineer with experience in building scalable UI
 ### Build & CI/CD
 - Maven
 - Jenkins
-- GitHub Actions
 
 ### Version Control
 - Git
 - GitHub
+
+### API Testing
+- Postman
+- REST APIs
 
 ### Database
 - MySQL
 
 ### Tools
 - Docker
-- Postman
-- Eclipse
+- Eclipse IDE
 - IntelliJ IDEA
 
+### Operating Systems
+- Windows
+- Ubuntu Linux
+
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
 ### 🛒 Enterprise E-Commerce Automation Framework
-Hybrid Selenium framework with POM, TestNG, Data-Driven Testing, Docker, Jenkins, and Extent Reports.
+A hybrid automation framework developed using Selenium WebDriver, Java, TestNG, Maven, Page Object Model (POM), and Data-Driven Testing principles.
 
-### 🌐 UI + API Automation Framework
-End-to-end automation combining Selenium and Rest Assured.
+### 🌐 UI & API Automation Framework
+An automation framework combining Selenium WebDriver and Rest Assured for end-to-end validation of Web UI and REST APIs.
 
 ### 🔗 REST API Automation Framework
-API automation using Rest Assured, TestNG, JSON Schema Validation, and POJO.
+API automation project using Rest Assured, TestNG, JSON parsing, assertions, and reusable utility classes.
 
 ### 🤖 Gmail Telegram AI Agent
-Automates email monitoring and Telegram notifications using AI.
+Automation project for monitoring emails and sending Telegram notifications to improve workflow efficiency.
 
 ---
 
-## 📈 Current Focus
+## 🌱 Currently Learning
 
-- Enterprise Automation Frameworks
-- Playwright Automation
-- API Automation
-- CI/CD Integration
-- AI-Assisted Testing
-
----
-
-## 🤝 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/abdul-azeez-shaik-a7532b234/
-- 📧 Email: azeez19bf1a@gmail.com
+- Playwright
+- Advanced API Automation
+- AI-Assisted Test Automation
+- CI/CD Best Practices
 
 ---
 
-⭐ *Always Learning • Always Building • Always Improving*
+## 🎯 Career Goals
+
+- Build enterprise-level automation frameworks
+- Master modern automation tools and testing strategies
+- Contribute to open-source QA automation projects
+- Continuously improve software quality through automation
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: YOUR_EMAIL
+
+---
+
+⭐ **"Quality is not an act, it is a habit."**
