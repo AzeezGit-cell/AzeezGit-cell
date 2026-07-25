@@ -90,8 +90,8 @@ Automation project for monitoring emails and sending Telegram notifications to i
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-azeez-shaik-a7532b234/
+- 📧 Email: azeez19bg1a@gmail.com
 
 ---
 
