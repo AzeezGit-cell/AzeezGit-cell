@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Abdul Azeez Shaik 👋
 
 ### Software Engineer \| Java Backend Development \| QA Automation \| AI-Assisted Engineering
@@ -129,6 +129,6 @@ Quarkus, microservices, API engineering, and software automation**.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ⭐ Thanks for visiting my profile!
-:::
+
